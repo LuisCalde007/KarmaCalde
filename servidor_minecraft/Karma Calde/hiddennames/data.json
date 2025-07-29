@@ -1,0 +1,29 @@
+[
+  {
+    "uuid": "889743bd-1041-451d-ac08-3ef5dd497a38",
+    "displayName": {
+      "insertion": "CaldeGamer07",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell CaldeGamer07 "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "889743bd-1041-451d-ac08-3ef5dd497a38",
+          "name": {
+            "text": "CaldeGamer07"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "CaldeGamer07"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
