@@ -25,5 +25,32 @@
       "text": ""
     },
     "animation": "null"
+  },
+  {
+    "uuid": "9f8e0780-d75d-420c-8626-0742fb039b13",
+    "displayName": {
+      "insertion": "Silb3r",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Silb3r "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "9f8e0780-d75d-420c-8626-0742fb039b13",
+          "name": {
+            "text": "Silb3r"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Silb3r"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
   }
 ]
