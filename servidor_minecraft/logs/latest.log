@@ -2853,3 +2853,8 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [30Jul2025 21:23:32.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Stone Age]
 [30Jul2025 21:24:47.058] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-153, y=21, z=-217}
 [30Jul2025 21:24:47.063] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-153, y=21, z=-218}
+[30Jul2025 21:27:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Getting an Upgrade]
+[30Jul2025 21:30:57.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Monster Hunter]
+[30Jul2025 21:31:12.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaldeGamer07 lost connection: Disconnected
+[30Jul2025 21:31:12.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 left the game
+[30Jul2025 21:31:12.548] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CaldeGamer07
