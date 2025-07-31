@@ -1408,9 +1408,10 @@
   },
   "xercamod:recipes/food/smoking_item_fried_egg": {
     "criteria": {
+      "has_item": "2025-07-31 06:03:46 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_fish_mushroom": {
     "criteria": {
@@ -2390,9 +2391,10 @@
   },
   "xercamod:recipes/food/smelting_item_fried_egg": {
     "criteria": {
+      "has_item": "2025-07-31 06:03:46 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/cushion/cyan_cushion": {
     "criteria": {
@@ -2560,9 +2562,10 @@
   },
   "xercamod:recipes/food/campfire_cooking_item_fried_egg": {
     "criteria": {
+      "has_item": "2025-07-31 06:03:46 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_meat_pepperoni": {
     "criteria": {
@@ -2590,9 +2593,10 @@
   },
   "xercamod:recipes/food/vat": {
     "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/ender_flask/flask": {
     "criteria": {
@@ -3393,12 +3397,15 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-07-31 06:05:11 +0000",
       "rocky_shrubland": "2025-07-29 04:51:01 +0000",
       "highland": "2025-07-29 04:54:56 +0000",
       "mystic_grove": "2025-07-29 04:56:54 +0000",
       "orchard": "2025-07-31 05:38:00 +0000",
       "spider_nest": "2025-07-31 05:50:31 +0000",
-      "redwood_forest": "2025-07-29 04:56:47 +0000"
+      "redwood_forest": "2025-07-29 04:56:47 +0000",
+      "volcanic_plains": "2025-07-31 06:07:51 +0000",
+      "rainforest": "2025-07-31 06:05:30 +0000"
     },
     "done": false
   },
@@ -5951,6 +5958,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-31 05:34:00 +0000",
       "minecraft:spider": "2025-07-31 05:38:25 +0000",
+      "minecraft:enderman": "2025-07-31 05:59:07 +0000",
       "minecraft:zombie": "2025-07-30 21:30:57 +0000"
     },
     "done": false
@@ -5973,9 +5981,21 @@
     },
     "done": true
   },
+  "tropicraft:recipes/misc/brown_beach_float": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-07-31 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -5985,9 +6005,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_brown.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-07-31 05:49:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/kumquat_sapling": {
+    "criteria": {
+      "has_kumquat": "2025-07-31 06:05:57 +0000"
     },
     "done": true
   },
@@ -6000,6 +6038,12 @@
   "cfm:recipes/decorations/blue_grill": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -6033,6 +6077,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:07:10 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-07-31 05:21:33 +0000"
@@ -6054,6 +6110,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-31 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6081,6 +6143,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6099,6 +6167,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
     "criteria": {
       "has_datura": "2025-07-31 05:40:51 +0000"
@@ -6108,6 +6194,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6135,9 +6227,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -6147,9 +6257,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6159,9 +6281,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_shin": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6213,6 +6347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6249,6 +6389,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_cyan": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6264,6 +6410,18 @@
   "croptopia:recipes/misc/frying_pan": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/misc/brown_chair": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-31 05:59:22 +0000"
     },
     "done": true
   },
@@ -6321,6 +6479,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_light_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6333,6 +6503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:07:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6342,6 +6518,18 @@
   "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-07-31 05:40:58 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -6363,9 +6551,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_purple.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -6405,6 +6605,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-07-31 05:21:33 +0000"
@@ -6423,6 +6629,12 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6435,15 +6647,33 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-31 05:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -6459,6 +6689,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_red": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-31 05:22:22 +0000"
@@ -6468,6 +6704,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_grey": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -6495,9 +6737,21 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_green": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_black": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -6531,6 +6785,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6552,6 +6812,18 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6579,6 +6851,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-07-31 06:05:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_beef": "2025-07-31 05:26:07 +0000"
@@ -6591,9 +6875,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_light_blue": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_rei": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6615,15 +6923,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-07-31 05:21:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_white": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_purple": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -6651,6 +7007,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/treat_bag": {
     "criteria": {
       "has_leather": "2025-07-31 05:30:08 +0000"
@@ -6675,6 +7037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6684,6 +7052,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-31 05:59:22 +0000"
     },
     "done": true
   },
@@ -6699,9 +7073,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/tengu_mask": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-07-31 06:03:46 +0000"
     },
     "done": true
   },
@@ -6711,9 +7103,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/quill": {
     "criteria": {
       "has_tag_a": "2025-07-31 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6723,15 +7139,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_lime.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/misc/brown_umbrella": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_pink": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-07-31 05:26:08 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/divine_retribution": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-31 05:26:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6744,6 +7214,12 @@
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-07-31 06:03:46 +0000"
     },
     "done": true
   },
@@ -6768,6 +7244,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-07-31 05:38:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -6801,9 +7283,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-31 05:59:49 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_tei": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_green.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -6875,6 +7369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2025-07-31 05:21:33 +0000"
@@ -6899,6 +7399,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-31 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 05:21:33 +0000"
@@ -6908,6 +7438,18 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
     },
     "done": true
   },
@@ -6947,6 +7489,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_blue.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "signpost:recipes/decorations/waystone": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-07-31 05:42:10 +0000"
@@ -6971,6 +7525,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_yellow": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-07-31 05:38:42 +0000"
@@ -6983,9 +7555,21 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_brown": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-07-31 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7019,9 +7603,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -7031,9 +7627,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -7043,9 +7657,33 @@
     },
     "done": true
   },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_pink.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-31 05:59:22 +0000"
     },
     "done": true
   },
@@ -7067,6 +7705,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/decorations/bamboo_item_frame": {
     "criteria": {
       "has_leather": "2025-07-31 05:30:08 +0000"
@@ -7076,6 +7720,18 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
     },
     "done": true
   },
@@ -7121,6 +7777,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -7145,6 +7807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_grill": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -7160,6 +7828,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_black.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -7184,6 +7858,24 @@
   "doggytalents:recipes/misc/gender_bone": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_blue": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -7229,15 +7921,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2025-07-31 05:26:07 +0000"
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/soul_reflector": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/candied_kumquats": {
+    "criteria": {
+      "has_kumquat": "2025-07-31 06:05:57 +0000"
     },
     "done": true
   },
@@ -7250,6 +7966,12 @@
   "doggytalents:recipes/decorations/cape_coloured": {
     "criteria": {
       "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7277,6 +7999,18 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_light_grey": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-31 05:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-07-31 05:26:07 +0000"
@@ -7286,6 +8020,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:07:10 +0000"
     },
     "done": true
   },
@@ -7301,9 +8041,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-31 06:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_orange.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -7331,6 +8095,12 @@
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_magenta": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-07-31 05:47:40 +0000"
@@ -7340,6 +8110,18 @@
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2025-07-31 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7367,9 +8149,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7385,9 +8179,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_light_grey.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2025-07-31 05:41:35 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "colourfulearth:recipes/decorations/grass_dyed_orange": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -7397,9 +8209,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-31 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_yellow.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7415,15 +8245,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_white.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
+  "colourfulearth:recipes/decorations/grass_dyed_lime": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
     },
     "done": true
   },
@@ -7451,6 +8305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_red.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -7466,6 +8326,24 @@
   "mcwtrpdoors:recipes/print_whispering": {
     "criteria": {
       "has_logs": "2025-07-31 05:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dragonfruit_sapling": {
+    "criteria": {
+      "has_dragonfruit": "2025-07-31 06:06:45 +0000"
     },
     "done": true
   },
@@ -7487,9 +8365,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grass_washed_cyan.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/iron_stuff": {
     "criteria": {
       "has_wood": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7499,9 +8407,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-31 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-07-31 06:05:46 +0000"
     },
     "done": true
   },
@@ -7529,15 +8455,33 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_jin": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_brown_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2025-07-31 05:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grass_washed_magenta.json": {
+    "criteria": {
+      "has_grass_block": "2025-07-31 05:59:09 +0000"
     },
     "done": true
   },
@@ -7565,9 +8509,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-07-31 05:40:58 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_bag": {
+    "criteria": {
+      "has_w": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7598,6 +8560,20 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-31 05:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-07-31 06:04:20 +0000",
+      "minecraft:forest": "2025-07-31 06:05:23 +0000",
+      "minecraft:jungle": "2025-07-31 06:05:39 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7637,6 +8613,18 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-07-31 05:38:42 +0000"
@@ -7646,6 +8634,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:08:29 +0000"
     },
     "done": true
   },
@@ -7661,6 +8655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-07-31 05:59:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/cooking_pot": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -7670,6 +8670,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-31 05:26:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-31 06:03:46 +0000"
     },
     "done": true
   },
