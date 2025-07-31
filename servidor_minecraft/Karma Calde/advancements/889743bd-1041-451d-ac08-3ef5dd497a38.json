@@ -3409,6 +3409,7 @@
       "shrubland": "2025-07-31 06:09:02 +0000",
       "rocky_shrubland": "2025-07-29 04:51:01 +0000",
       "highland": "2025-07-29 04:54:56 +0000",
+      "jacaranda_glade": "2025-07-31 06:43:20 +0000",
       "marsh": "2025-07-31 06:10:27 +0000",
       "mystic_grove": "2025-07-29 04:56:54 +0000",
       "old_growth_woodland": "2025-07-31 06:30:32 +0000",
@@ -5971,6 +5972,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-31 05:34:00 +0000",
       "minecraft:spider": "2025-07-31 05:38:25 +0000",
+      "minecraft:creeper": "2025-07-31 06:39:53 +0000",
       "minecraft:slime": "2025-07-31 06:15:45 +0000",
       "minecraft:enderman": "2025-07-31 05:59:07 +0000",
       "minecraft:zombie": "2025-07-30 21:30:57 +0000"
@@ -8932,6 +8934,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_support": {
+    "criteria": {
+      "has_plank": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
@@ -8953,6 +8961,24 @@
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -8986,9 +9012,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -9004,9 +9054,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cherry_planks": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9040,6 +9102,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
@@ -9052,9 +9120,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/banana_cream_pie": {
     "criteria": {
       "has_banana": "2025-07-31 06:33:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
     },
     "done": true
   },
@@ -9082,6 +9180,13 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000",
+      "has_the_recipe": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-31 06:32:48 +0000"
@@ -9106,6 +9211,30 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/snorkel": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
@@ -9118,9 +9247,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tools/eudialyte_axe": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
     },
     "done": true
   },
@@ -9130,9 +9295,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2025-07-31 06:31:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9142,15 +9337,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_cherry_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tools/zirconium_pickaxe": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
     },
     "done": true
   },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -9172,15 +9403,45 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-31 06:44:10 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tools/eudialyte_shovel": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/hay_block_slab": {
     "criteria": {
       "has_hay_block": "2025-07-31 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
     },
     "done": true
   },
@@ -9193,6 +9454,12 @@
   "tropicraft:recipes/tools/zirconium_shovel": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9220,9 +9487,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-07-31 06:32:33 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -9232,9 +9523,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-31 06:32:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -9247,6 +9556,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
     },
     "done": true
   },
@@ -9286,9 +9601,45 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cherry_log_slab": {
+    "criteria": {
+      "has_cherry_log": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9298,9 +9649,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/magenta_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cherry": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_seat": {
+    "criteria": {
+      "has_plank": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9328,9 +9703,27 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/banana_smoothie": {
     "criteria": {
       "has_banana": "2025-07-31 06:33:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9340,9 +9733,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cherry_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9355,6 +9766,24 @@
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2025-07-31 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -9376,9 +9805,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/pink_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/decorations/bamboo_ladder": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9394,9 +9835,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cherry_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tools/eudialyte_hoe": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9409,6 +9880,18 @@
   "tropicraft:recipes/combat/dagger": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:43:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
@@ -9436,6 +9919,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-07-31 06:30:50 +0000"
@@ -9445,6 +9934,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_cherry_crib": {
+    "criteria": {
+      "has_cherry_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },

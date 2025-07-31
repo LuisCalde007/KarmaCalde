@@ -2912,6 +2912,7 @@
       "shrubland": "2025-07-31 06:09:04 +0000",
       "rocky_shrubland": "2025-07-29 04:52:25 +0000",
       "highland": "2025-07-29 04:55:02 +0000",
+      "jacaranda_glade": "2025-07-31 06:41:46 +0000",
       "marsh": "2025-07-31 06:10:39 +0000",
       "old_growth_woodland": "2025-07-31 06:29:10 +0000",
       "orchard": "2025-07-31 05:38:13 +0000",
@@ -7181,9 +7182,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7202,6 +7215,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-31 06:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7226,6 +7257,12 @@
   "doggytalents:recipes/decorations/baker_hat": {
     "criteria": {
       "has_bread": "2025-07-31 06:30:41 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7277,9 +7314,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7301,6 +7356,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
@@ -7310,6 +7377,12 @@
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7328,6 +7401,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-31 06:37:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-31 06:44:32 +0000"
     },
     "done": true
   },
@@ -7379,9 +7458,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7400,6 +7491,18 @@
   "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_copper_ingot": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7439,9 +7542,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7499,15 +7620,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-07-31 06:25:36 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
@@ -7532,6 +7683,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-31 06:40:57 +0000"
     },
     "done": true
   },
