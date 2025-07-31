@@ -3150,3 +3150,30 @@ java.lang.Exception: null
 [31Jul2025 06:29:51.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> eso veo
 [31Jul2025 06:30:02.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Agnete'/33285, l='ServerLevel[Karma Calde]', x=630.44, y=64.01, z=254.55] died: Agnete was slain by Silb3r
 [31Jul2025 06:30:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Minecraft Comes Alive]
+[31Jul2025 06:33:09.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Gone Bananas!]
+[31Jul2025 06:33:21.474] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1163, y=22, z=521}
+[31Jul2025 06:33:35.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> te gusto mi platano?^
+[31Jul2025 06:33:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> xDDDD
+[31Jul2025 06:34:36.711] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1161, y=-21, z=724}
+[31Jul2025 06:34:36.711] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1162, y=-21, z=724}
+[31Jul2025 06:37:37.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Sweet Dreams]
+[31Jul2025 06:38:09.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Sweet Dreams]
+[31Jul2025 06:38:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> zzzz
+[31Jul2025 06:38:38.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> zzzzz
+[31Jul2025 06:38:38.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> z
+[31Jul2025 06:38:38.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> z
+[31Jul2025 06:38:39.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> z
+[31Jul2025 06:38:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> Xdddddddd
+[31Jul2025 06:39:02.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 06:39:02.555] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 06:39:02.557] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 06:39:14.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has been revived!
+[31Jul2025 06:42:07.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 06:42:07.243] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 06:42:07.260] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 06:42:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> xD
+[31Jul2025 06:42:13.406] [Worker-Main-23/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [73, 57], pos: BlockPos{x=1181, y=62, z=917}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@7a9ce878: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@5c368ecb}
+[31Jul2025 06:42:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r was slain by Hippo
+[31Jul2025 06:42:16.261] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 06:42:17.920] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Jul2025 06:42:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> la ptm

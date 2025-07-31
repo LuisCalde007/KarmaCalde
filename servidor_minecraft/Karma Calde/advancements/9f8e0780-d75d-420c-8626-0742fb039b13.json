@@ -2694,9 +2694,10 @@
   },
   "xercamod:recipes/food/item_bun": {
     "criteria": {
+      "has_item": "2025-07-31 06:30:41 +0000",
       "config": "2025-07-29 04:52:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_meat_pepperoni_pepperoni": {
     "criteria": {
@@ -2912,7 +2913,9 @@
       "rocky_shrubland": "2025-07-29 04:52:25 +0000",
       "highland": "2025-07-29 04:55:02 +0000",
       "marsh": "2025-07-31 06:10:39 +0000",
+      "old_growth_woodland": "2025-07-31 06:29:10 +0000",
       "orchard": "2025-07-31 05:38:13 +0000",
+      "mediterranean_forest": "2025-07-31 06:35:24 +0000",
       "spider_nest": "2025-07-31 05:50:30 +0000",
       "redwood_forest": "2025-07-29 04:57:59 +0000",
       "volcanic_plains": "2025-07-31 06:07:56 +0000",
@@ -3625,7 +3628,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-31 05:43:02 +0000",
       "minecraft:spider": "2025-07-31 06:16:18 +0000",
-      "minecraft:zombie": "2025-07-31 05:21:20 +0000"
+      "minecraft:zombie": "2025-07-31 05:21:20 +0000",
+      "minecraft:drowned": "2025-07-31 06:37:54 +0000"
     },
     "done": false
   },
@@ -3659,7 +3663,9 @@
       "cooked_beef": "2025-07-31 05:29:53 +0000",
       "beef": "2025-07-31 06:21:37 +0000",
       "apple": "2025-07-31 05:38:29 +0000",
-      "rotten_flesh": "2025-07-31 05:21:32 +0000"
+      "bread": "2025-07-31 06:30:50 +0000",
+      "rotten_flesh": "2025-07-31 05:21:32 +0000",
+      "melon_slice": "2025-07-31 06:33:48 +0000"
     },
     "done": false
   },
@@ -6570,7 +6576,8 @@
       "minecraft:river": "2025-07-31 06:04:18 +0000",
       "minecraft:swamp": "2025-07-31 06:12:29 +0000",
       "minecraft:forest": "2025-07-31 06:05:36 +0000",
-      "minecraft:jungle": "2025-07-31 06:05:46 +0000"
+      "minecraft:jungle": "2025-07-31 06:05:46 +0000",
+      "minecraft:plains": "2025-07-31 06:29:15 +0000"
     },
     "done": false
   },
@@ -7162,9 +7169,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-31 06:37:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-07-31 06:34:41 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-31 06:38:09 +0000"
     },
     "done": true
   },
@@ -7177,6 +7214,18 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:30:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:30:41 +0000"
     },
     "done": true
   },
@@ -7195,6 +7244,30 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-07-31 06:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-31 06:37:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:30:41 +0000"
     },
     "done": true
   },
@@ -7222,6 +7295,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:30:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
@@ -7234,9 +7313,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-31 06:37:48 +0000"
     },
     "done": true
   },
@@ -7246,15 +7337,45 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-31 06:34:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:34:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:34:53 +0000"
     },
     "done": true
   },
@@ -7288,6 +7409,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
@@ -7312,6 +7445,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-07-31 06:37:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
@@ -7324,9 +7463,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:30:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-31 06:34:53 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/copper_stuff": {
     "criteria": {
       "has_wood": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:34:53 +0000"
     },
     "done": true
   },
@@ -7363,6 +7532,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:33 +0000"
     },
     "done": true
   },

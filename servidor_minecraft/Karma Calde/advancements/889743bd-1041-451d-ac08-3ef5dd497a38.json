@@ -383,9 +383,10 @@
   },
   "xercamod:recipes/food/item_apple_pie": {
     "criteria": {
+      "has_item": "2025-07-31 06:32:12 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/terracotta_tile/lime_terratile_slab": {
     "criteria": {
@@ -1440,9 +1441,10 @@
   },
   "xercamod:recipes/food/item_croissant": {
     "criteria": {
+      "has_item": "2025-07-31 06:38:01 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_fish_fish_meat": {
     "criteria": {
@@ -1869,9 +1871,10 @@
   },
   "xercamod:recipes/food/item_chocolate": {
     "criteria": {
+      "has_item": "2025-07-31 06:32:33 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_chicken_pepperoni_pepperoni": {
     "criteria": {
@@ -2221,9 +2224,10 @@
   },
   "xercamod:recipes/food/item_donut": {
     "criteria": {
+      "has_item": "2025-07-31 06:38:01 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/raw_pizza_chicken_fish_meat": {
     "criteria": {
@@ -2491,9 +2495,10 @@
   },
   "xercamod:recipes/food/item_bun": {
     "criteria": {
+      "has_item": "2025-07-31 06:31:15 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
@@ -2711,9 +2716,10 @@
   },
   "xercamod:recipes/food/item_cocoa_cupcake": {
     "criteria": {
+      "has_item": "2025-07-31 06:32:33 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/raw_pizza_mushroom_mushroom_pepperoni": {
     "criteria": {
@@ -3276,9 +3282,10 @@
   },
   "xercamod:recipes/food/item_apple_cupcake": {
     "criteria": {
+      "has_item": "2025-07-31 06:32:12 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/warhammer/item_diamond_warhammer": {
     "criteria": {
@@ -3404,6 +3411,7 @@
       "highland": "2025-07-29 04:54:56 +0000",
       "marsh": "2025-07-31 06:10:27 +0000",
       "mystic_grove": "2025-07-29 04:56:54 +0000",
+      "old_growth_woodland": "2025-07-31 06:30:32 +0000",
       "orchard": "2025-07-31 05:38:00 +0000",
       "mediterranean_forest": "2025-07-31 06:23:57 +0000",
       "spider_nest": "2025-07-31 05:50:31 +0000",
@@ -7089,6 +7097,8 @@
     "criteria": {
       "cooked_porkchop": "2025-07-31 05:44:17 +0000",
       "cooked_beef": "2025-07-31 05:29:43 +0000",
+      "apple": "2025-07-31 06:37:10 +0000",
+      "bread": "2025-07-31 06:31:23 +0000",
       "rotten_flesh": "2025-07-31 05:43:01 +0000",
       "melon_slice": "2025-07-31 06:22:05 +0000"
     },
@@ -8197,7 +8207,8 @@
       "minecraft:river": "2025-07-31 06:04:20 +0000",
       "minecraft:swamp": "2025-07-31 06:12:32 +0000",
       "minecraft:forest": "2025-07-31 06:05:23 +0000",
-      "minecraft:jungle": "2025-07-31 06:05:39 +0000"
+      "minecraft:jungle": "2025-07-31 06:05:39 +0000",
+      "minecraft:plains": "2025-07-31 06:30:31 +0000"
     },
     "done": false
   },
@@ -8912,6 +8923,540 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-07-31 06:26:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-07-31 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/decorations/bamboo_flower_pot": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/fedora": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-31 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-07-31 06:35:50 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-31 06:37:37 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-31 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zirconium_hoe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:31:15 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/baker_hat": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:31:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:32:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/deer_antlers": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-31 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_cream_pie": {
+    "criteria": {
+      "has_banana": "2025-07-31 06:33:09 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-07-31 06:30:39 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/eudialyte_pickaxe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/hot_dog": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:31:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bunny_ears": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-31 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/eudialyte_axe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/demon_horns": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-31 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:31:15 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zircon_hoe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zirconium_pickaxe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-31 06:35:56 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/combat/zirconium_sword": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zircon_shovel": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/eudialyte_shovel": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/hay_block_slab": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/combat/eudialyte_sword": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zirconium_shovel": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zirconium_axe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-31 06:32:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-31 06:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-07-31 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_nut_bread": {
+    "criteria": {
+      "has_banana": "2025-07-31 06:33:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/misc/bamboo_mug": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-31 06:31:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chocolate": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-31 06:32:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/banana_smoothie": {
+    "criteria": {
+      "has_banana": "2025-07-31 06:33:09 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/decorations/bamboo_chest": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/chef_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-31 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-07-31 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/combat/zircon_sword": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2025-07-31 06:31:08 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/decorations/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zircon_pickaxe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2025-07-31 06:31:08 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/eudialyte_hoe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-07-31 06:33:09 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/combat/dagger": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-07-31 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/tools/zircon_axe": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-31 06:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-31 06:32:48 +0000"
     },
     "done": true
   },
