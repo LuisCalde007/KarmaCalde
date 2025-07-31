@@ -432,9 +432,10 @@
   },
   "xercamod:recipes/terracotta_tile/cyan_terratile": {
     "criteria": {
+      "has_item": "2025-07-31 07:10:35 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/item_pumpkin_juice": {
     "criteria": {
@@ -1155,9 +1156,10 @@
   },
   "xercamod:recipes/food/item_potato_slices": {
     "criteria": {
+      "has_item": "2025-07-31 07:07:12 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/terracotta_tile/blue_terratile": {
     "criteria": {
@@ -8928,6 +8930,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:58:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-07-31 06:32:12 +0000"
@@ -8979,6 +8987,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:07:12 +0000"
     },
     "done": true
   },
@@ -9114,6 +9128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-31 07:10:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
@@ -9131,6 +9151,12 @@
       "has_leather_helmet": "2025-07-31 06:32:03 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "honeydew_seed": "2025-07-31 06:59:20 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
     "criteria": {
@@ -9162,9 +9188,22 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "cantaloupe_seed": "2025-07-31 06:59:20 +0000",
+      "honeydew_seed": "2025-07-31 06:59:20 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/banana_cream_pie": {
     "criteria": {
       "has_banana": "2025-07-31 06:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-31 07:10:32 +0000"
     },
     "done": true
   },
@@ -9186,9 +9225,21 @@
     },
     "done": true
   },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-07-31 06:59:20 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tools/eudialyte_pickaxe": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-31 07:07:55 +0000"
     },
     "done": true
   },
@@ -9265,9 +9316,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-07-31 06:58:55 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/snorkel": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_top": "2025-07-31 07:10:35 +0000"
     },
     "done": true
   },
@@ -9301,6 +9364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:07:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-07-31 06:40:57 +0000"
@@ -9313,9 +9382,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-31 07:11:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_cherry": {
     "criteria": {
       "has_item": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-07-31 07:09:15 +0000"
     },
     "done": true
   },
@@ -9451,6 +9532,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 07:06:35 +0000"
+    },
+    "done": true
+  },
   "tropicraft:recipes/tools/zircon_shovel": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
@@ -9466,6 +9553,12 @@
   "mcwpaths:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:07:12 +0000"
     },
     "done": true
   },
@@ -9492,6 +9585,12 @@
       "has_hay_block": "2025-07-31 06:30:50 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-31 06:58:44 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
     "criteria": {
@@ -9523,6 +9622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-31 06:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
@@ -9532,6 +9637,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:07:12 +0000"
     },
     "done": true
   },
@@ -9547,15 +9658,39 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/cyan_terracotta_slab": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-31 07:10:35 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-07-31 06:46:36 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-07-31 07:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-07-31 06:32:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 06:58:57 +0000"
     },
     "done": true
   },
@@ -9568,6 +9703,12 @@
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-07-31 07:11:11 +0000"
     },
     "done": true
   },
@@ -9604,6 +9745,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-31 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 07:08:15 +0000"
     },
     "done": true
   },
@@ -9661,6 +9808,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/cyan_cooler": {
+    "criteria": {
+      "has_terracotta": "2025-07-31 07:10:35 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-31 06:40:57 +0000"
@@ -9691,6 +9844,12 @@
     },
     "done": true
   },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "cantaloupe_seed": "2025-07-31 06:59:20 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-31 06:40:57 +0000"
@@ -9700,6 +9859,12 @@
   "mca:recipes/decorations/green_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-07-31 06:58:44 +0000"
     },
     "done": true
   },
@@ -9817,6 +9982,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-31 06:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-07-31 06:46:36 +0000"
@@ -9856,6 +10033,12 @@
   "tropicraft:recipes/combat/zircon_sword": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-07-31 06:58:55 +0000"
     },
     "done": true
   },
@@ -10036,6 +10219,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-07-31 07:11:32 +0000"
     },
     "done": true
   },
