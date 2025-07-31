@@ -2846,3 +2846,29 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [31Jul2025 05:09:53.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaldeGamer07 lost connection: Disconnected
 [31Jul2025 05:09:53.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 left the game
 [31Jul2025 05:09:53.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CaldeGamer07
+[31Jul2025 05:18:45.265] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Silb3r is 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 05:18:57.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Silb3r[/127.56.39.103:55771] logged in with entity id 2295 at (-61.3967396205405, 120.0, 13.369077962420029)
+[31Jul2025 05:18:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r joined the game
+[31Jul2025 05:18:57.892] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[31Jul2025 05:18:57.911] [Server thread/INFO] [Jade/]: Syncing config to Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13)
+[31Jul2025 05:19:02.392] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Silb3r (18)
+[31Jul2025 05:19:02.393] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Silb3r
+[31Jul2025 05:19:26.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 05:19:27.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 05:19:27.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13) successfully connected to voice chat
+[31Jul2025 05:20:21.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=121, z=3}
+[31Jul2025 05:20:39.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=121, z=3}
+[31Jul2025 05:20:40.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=121, z=4}
+[31Jul2025 05:20:40.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=121, z=3}
+[31Jul2025 05:20:44.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=121, z=2}
+[31Jul2025 05:20:46.926] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CaldeGamer07 is 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 05:20:56.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaldeGamer07[/127.116.252.139:56153] logged in with entity id 2679 at (-11.633626666356372, 120.0, 2.089474819669646)
+[31Jul2025 05:20:56.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 joined the game
+[31Jul2025 05:20:56.800] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[31Jul2025 05:20:56.815] [Server thread/INFO] [Jade/]: Syncing config to CaldeGamer07 (889743bd-1041-451d-ac08-3ef5dd497a38)
+[31Jul2025 05:20:59.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CaldeGamer07 (18)
+[31Jul2025 05:20:59.020] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CaldeGamer07
+[31Jul2025 05:21:11.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 05:21:12.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 05:21:12.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CaldeGamer07 (889743bd-1041-451d-ac08-3ef5dd497a38) successfully connected to voice chat
+[31Jul2025 05:21:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Monster Hunter]
