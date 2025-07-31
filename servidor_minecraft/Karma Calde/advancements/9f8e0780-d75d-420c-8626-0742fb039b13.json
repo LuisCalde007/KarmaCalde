@@ -1,4 +1,560 @@
 {
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/maple_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/red_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/pine_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/cypress_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
+      "has_fillet_knife": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
+      "has_fillet_knife": "2025-07-29 04:52:25 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "xercamod:achievements/root": {
+    "criteria": {
+      "crafting_table": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/hellbark_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2025-07-29 04:52:24 +0000",
+      "has_axe": "2025-07-29 04:52:24 +0000",
+      "has_helmet": "2025-07-29 04:52:24 +0000",
+      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
+      "has_bow": "2025-07-29 04:52:25 +0000",
+      "has_chestplate": "2025-07-29 04:52:24 +0000",
+      "has_sword": "2025-07-29 04:52:24 +0000",
+      "has_fillet_knife": "2025-07-29 04:52:24 +0000",
+      "has_shovel": "2025-07-29 04:52:25 +0000",
+      "has_hoe": "2025-07-29 04:52:24 +0000",
+      "has_boots": "2025-07-29 04:52:24 +0000",
+      "has_pickaxe": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2025-07-29 04:52:24 +0000",
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/yellow_maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/mahogany_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
+      "has_fillet_knife": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/empyreal_fences": {
+    "criteria": {
+      "has_acacia": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
+      "has_fillet_knife": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2025-07-29 04:52:24 +0000"
+    },
+    "done": true
+  },
   "xercamod:recipes/food/campfire_cooking_pizza_chicken_fish_fish": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -28,18 +584,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/aquaculture/heavy_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/dark_oak": {
-    "criteria": {
-      "has_dark_oak": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_meat": {
     "criteria": {
@@ -95,29 +639,11 @@
     },
     "done": false
   },
-  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/terracotta_tile/gray_terratile_stairs": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/origin_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/crimson": {
-    "criteria": {
-      "has_crimson": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/raw_pizza_meat_meat_pepperoni": {
     "criteria": {
@@ -130,12 +656,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/grab_hook/item_grab_hook": {
     "criteria": {
@@ -209,12 +729,6 @@
     },
     "done": true
   },
-  "mcwfences:recipes/jungle": {
-    "criteria": {
-      "has_jungle": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/campfire_cooking_pizza_chicken_mushroom_pepperoni": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -245,12 +759,6 @@
     },
     "done": false
   },
-  "mcwfences:recipes/warped": {
-    "criteria": {
-      "has_warped": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/scythe/diamond_scythe": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -268,18 +776,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-07-29 04:58:06 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/metal": {
-    "criteria": {
-      "has_deepslate": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_fish_fish_mushroom": {
     "criteria": {
@@ -299,35 +795,17 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/redwood_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/campfire_cooking_pizza_mushroom_pepperoni": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/empyreal_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_pizza_meat_meat_meat": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/palm_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/terracotta_tile/light_blue_terratile_stairs": {
     "criteria": {
@@ -515,29 +993,11 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/willow_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/pine_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_pizza_mushroom_pepperoni_pepperoni": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/willow_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_chicken_fish_mushroom": {
     "criteria": {
@@ -556,12 +1016,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/maple_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
@@ -592,12 +1046,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/dead_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/raw_pizza": {
     "criteria": {
@@ -647,12 +1095,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/decorations/acacia_fish_mount": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smoking_pizza_fish_meat_pepperoni": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -682,12 +1124,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/fir_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/campfire_cooking_pizza_fish_mushroom_mushroom": {
     "criteria": {
@@ -767,12 +1203,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/aquaculture/light_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_item_yoghurt": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -808,12 +1238,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwfences:recipes/birch": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/terracotta_tile/pink_terratile": {
     "criteria": {
@@ -857,18 +1281,6 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/red_maple_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/stone": {
-    "criteria": {
-      "has_stone": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_item_cooked_chicken_patty": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -892,12 +1304,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/tools/iron_fishing_rod": {
-    "criteria": {
-      "has_vanilla_rod": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/oyakodon": {
     "criteria": {
@@ -949,9 +1355,10 @@
   },
   "xercamod:recipes/scythe/wooden_scythe": {
     "criteria": {
+      "has_item": "2025-07-31 05:20:29 +0000",
       "config": "2025-07-29 04:52:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/item_ultimate_top": {
     "criteria": {
@@ -1025,21 +1432,9 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/pine_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "theurgy:book_root": {
     "criteria": {
       "theurgy_present": "2025-07-29 04:52:25 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-29 04:52:24 +0000"
     },
     "done": true
   },
@@ -1097,18 +1492,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/decorations/oak_fish_mount": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/acacia": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/cushion/brown_cushion": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1145,23 +1528,11 @@
     },
     "done": false
   },
-  "mcwfences:recipes/oak": {
-    "criteria": {
-      "has_oak": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/campfire_cooking_item_cooked_patty": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/cypress_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_fish_mushroom_pepperoni": {
     "criteria": {
@@ -1217,23 +1588,11 @@
     },
     "done": false
   },
-  "aquaculture:recipes/aquaculture/double_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smoking_pizza_pepperoni_pepperoni_pepperoni": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/hellbark_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/campfire_cooking_pizza_chicken_meat_mushroom": {
     "criteria": {
@@ -1265,12 +1624,6 @@
     },
     "done": false
   },
-  "mcwfences:recipes/hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_pizza_chicken_meat_pepperoni": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1280,12 +1633,6 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-29 04:52:25 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/fishing_line": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
     },
     "done": true
   },
@@ -1319,12 +1666,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/aquaculture/iron_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/item_pumpkin_cupcake": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1349,12 +1690,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/terracotta_tile/yellow_terratile_slab": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1372,12 +1707,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/magic_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/raw_pizza_chicken_pepperoni": {
     "criteria": {
@@ -1414,12 +1743,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/tools/diamond_fishing_rod": {
-    "criteria": {
-      "has_vanilla_rod": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/raw_pizza_meat_meat_meat": {
     "criteria": {
@@ -1565,12 +1888,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/terracotta_tile/cyan_terratile_slab": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1637,12 +1954,6 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/umbran_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_pizza_chicken_fish_meat": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1679,12 +1990,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/decorations/birch_fish_mount": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/nigiri_sushi": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1714,18 +2019,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwfences:recipes/prismarine": {
-    "criteria": {
-      "has_qq": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/quartz": {
-    "criteria": {
-      "has_qq": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/glow_squid_ink_paella": {
     "criteria": {
@@ -1762,13 +2055,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
-      "has_fillet_knife": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/terracotta_tile/brown_terratile_slab": {
     "criteria": {
@@ -1812,12 +2098,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/tools/golden_fishing_rod": {
-    "criteria": {
-      "has_vanilla_rod": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/terracotta_tile/white_terratile_stairs": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1829,13 +2109,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
-      "has_fillet_knife": "2025-07-29 04:52:25 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_mushroom_pepperoni": {
     "criteria": {
@@ -1885,12 +2158,6 @@
     },
     "done": false
   },
-  "mcwfences:recipes/mangrove": {
-    "criteria": {
-      "has_mangrove": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_pizza_fish_fish_mushroom": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -1926,12 +2193,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_chicken_fish_mushroom": {
     "criteria": {
@@ -1974,30 +2235,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwfences:recipes/nether": {
-    "criteria": {
-      "has_nether_brick": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/redwood_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "xercamod:achievements/root": {
-    "criteria": {
-      "crafting_table": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/hellbark_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_meat_mushroom_mushroom": {
     "criteria": {
@@ -2049,27 +2286,16 @@
   },
   "xercamod:recipes/bookcase/item_bookcase": {
     "criteria": {
+      "has_item": "2025-07-31 05:20:29 +0000",
       "config": "2025-07-29 04:52:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/ender_flask/ender_bow": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwfences:recipes/bamboo": {
-    "criteria": {
-      "has_bamboo": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_chicken_mushroom_pepperoni": {
     "criteria": {
@@ -2088,12 +2314,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "chiselsandbits:recipes/tools/bit_storage": {
-    "criteria": {
-      "has_l": "2025-07-29 04:58:06 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/terracotta_tile/black_terratile_stairs": {
     "criteria": {
@@ -2130,12 +2350,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/jacaranda_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
@@ -2175,9 +2389,10 @@
   },
   "xercamod:recipes/courtroom/item_gavel": {
     "criteria": {
+      "has_item": "2025-07-31 05:20:29 +0000",
       "config": "2025-07-29 04:52:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwfences:recipes/spruce": {
     "criteria": {
@@ -2197,12 +2412,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-29 04:58:06 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/terracotta_tile/yellow_terratile_stairs": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2221,34 +2430,11 @@
     },
     "done": false
   },
-  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
-    "criteria": {
-      "has_leggings": "2025-07-29 04:52:24 +0000",
-      "has_axe": "2025-07-29 04:52:24 +0000",
-      "has_helmet": "2025-07-29 04:52:24 +0000",
-      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
-      "has_bow": "2025-07-29 04:52:25 +0000",
-      "has_chestplate": "2025-07-29 04:52:24 +0000",
-      "has_sword": "2025-07-29 04:52:24 +0000",
-      "has_fillet_knife": "2025-07-29 04:52:24 +0000",
-      "has_shovel": "2025-07-29 04:52:25 +0000",
-      "has_hoe": "2025-07-29 04:52:24 +0000",
-      "has_boots": "2025-07-29 04:52:24 +0000",
-      "has_pickaxe": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_item_shish_kebab": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smoking_cooked_rice": {
     "criteria": {
@@ -2285,12 +2471,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/rainbow_birch_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/terracotta_tile/magenta_terratile_slab": {
     "criteria": {
@@ -2334,19 +2514,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/aquaculture/diamond_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/food/sushi": {
-    "criteria": {
-      "has_alt_items": "2025-07-29 04:52:24 +0000",
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_pizza": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2389,23 +2556,11 @@
     },
     "done": false
   },
-  "chiselsandbits:recipes/tools/chiseled_printer": {
-    "criteria": {
-      "has_l": "2025-07-29 04:58:06 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smoking_pizza_mushroom_mushroom": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/misc/red_mushroom_from_fish": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_meat_meat_pepperoni": {
     "criteria": {
@@ -2413,23 +2568,11 @@
     },
     "done": false
   },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-07-29 04:58:06 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_pizza_chicken_chicken_pepperoni": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_meat_meat_mushroom": {
     "criteria": {
@@ -2527,12 +2670,6 @@
     },
     "done": false
   },
-  "mcwfences:recipes/end": {
-    "criteria": {
-      "has_end_brick": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/campfire_cooking_item_potato_fries": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2550,12 +2687,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/aquaculture/worm_farm": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_meat_pepperoni_pepperoni": {
     "criteria": {
@@ -2641,12 +2772,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/aquaculture/note_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/vat": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2665,12 +2790,6 @@
     },
     "done": true
   },
-  "mcwbiomesoplenty:recipes/snowblossom_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_shish_kebab": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2682,18 +2801,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwbiomesoplenty:recipes/yellow_maple_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "mcwbiomesoplenty:recipes/palm_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/terracotta_tile/red_terratile": {
     "criteria": {
@@ -2731,12 +2838,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/aquaculture/gold_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smoking_item_hot_teapot_6": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2760,12 +2861,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "chiselsandbits:recipes/tools/modification_table": {
-    "criteria": {
-      "has_b": "2025-07-29 04:58:06 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/item_cocoa_cupcake": {
     "criteria": {
@@ -2797,12 +2892,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/decorations/spruce_fish_mount": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "rocky_shrubland": "2025-07-29 04:52:25 +0000",
@@ -2817,12 +2906,6 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/umbran_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_pizza_chicken_meat_mushroom": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2835,12 +2918,6 @@
     },
     "done": false
   },
-  "mcwfences:recipes/mud_brick": {
-    "criteria": {
-      "has_qq": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_pizza_chicken_mushroom_mushroom": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2852,12 +2929,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "mcwfences:recipes/blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_fish_pepperoni_pepperoni": {
     "criteria": {
@@ -2895,12 +2966,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/cushion/green_cushion": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2931,12 +2996,6 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/mahogany_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_pizza_chicken": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2961,12 +3020,6 @@
     },
     "done": false
   },
-  "mcwfences:recipes/deepslate": {
-    "criteria": {
-      "has_deepslate": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smoking_pizza_meat_meat_meat": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -2978,12 +3031,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/aquaculture/redstone_hook": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_fish_fish_fish": {
     "criteria": {
@@ -3027,12 +3074,6 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/mahogany_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/smelting_item_hot_teapot_4": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -3069,19 +3110,6 @@
     },
     "done": false
   },
-  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
-      "has_fillet_knife": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/bobber": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_pizza_fish_mushroom": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -3100,35 +3128,17 @@
     },
     "done": false
   },
-  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_pizza_chicken_chicken_mushroom": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
   },
-  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_pizza_chicken_chicken_fish": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smelting_pizza_meat_pepperoni_pepperoni": {
     "criteria": {
@@ -3141,12 +3151,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/food/cooked_fish_fillet": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smoking_item_cooked_chicken_patty": {
     "criteria": {
@@ -3250,12 +3254,6 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/empyreal_fences": {
-    "criteria": {
-      "has_acacia": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/raw_pizza_meat_meat_mushroom": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -3298,23 +3296,11 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/dead_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/food/item_rotten_burger": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
-    "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "occultism:occultism/root": {
     "criteria": {
@@ -3327,13 +3313,6 @@
       "config": "2025-07-29 04:52:25 +0000"
     },
     "done": false
-  },
-  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_fishing_rod": "2025-07-29 04:52:24 +0000",
-      "has_fillet_knife": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_chicken_chicken_chicken": {
     "criteria": {
@@ -3371,12 +3350,6 @@
     },
     "done": false
   },
-  "mcwbiomesoplenty:recipes/fir_hedge": {
-    "criteria": {
-      "has_birch": "2025-07-29 04:52:24 +0000"
-    },
-    "done": true
-  },
   "xercamod:recipes/rope/rope": {
     "criteria": {
       "config": "2025-07-29 04:52:25 +0000"
@@ -3395,9 +3368,279 @@
     },
     "done": false
   },
-  "aquaculture:recipes/decorations/jungle_fish_mount": {
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "has_items": "2025-07-29 04:52:24 +0000"
+      "has_logs": "2025-07-29 04:58:06 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_storage": {
+    "criteria": {
+      "has_l": "2025-07-29 04:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-29 04:58:06 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chiseled_printer": {
+    "criteria": {
+      "has_l": "2025-07-29 04:58:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-07-29 04:58:06 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/modification_table": {
+    "criteria": {
+      "has_b": "2025-07-29 04:58:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/wrench": {
+    "criteria": {
+      "has_p": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/redwood_paths": {
+    "criteria": {
+      "has_wood": "2025-07-31 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-07-31 05:20:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-07-31 05:20:31 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-07-31 05:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-31 05:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-31 05:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-31 05:21:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-31 05:21:20 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-31 05:21:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 05:21:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-31 05:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-07-31 05:21:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-31 05:21:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-07-31 05:26:30 +0000"
     },
     "done": true
   },

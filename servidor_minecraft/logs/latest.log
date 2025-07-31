@@ -2872,3 +2872,35 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [31Jul2025 05:21:12.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 889743bd-1041-451d-ac08-3ef5dd497a38
 [31Jul2025 05:21:12.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CaldeGamer07 (889743bd-1041-451d-ac08-3ef5dd497a38) successfully connected to voice chat
 [31Jul2025 05:21:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Monster Hunter]
+[31Jul2025 05:21:33.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Acquire Hardware]
+[31Jul2025 05:22:22.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Isn't It Iron Pick]
+[31Jul2025 05:22:36.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silb3r lost connection: Disconnected
+[31Jul2025 05:22:36.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r left the game
+[31Jul2025 05:22:36.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Silb3r
+[31Jul2025 05:24:42.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Iron Torch]
+[31Jul2025 05:25:10.270] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Silb3r is 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 05:25:22.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Silb3r[/127.56.39.103:57527] logged in with entity id 3218 at (-11.300000011920929, 125.0, 15.099673766429419)
+[31Jul2025 05:25:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r joined the game
+[31Jul2025 05:25:22.465] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[31Jul2025 05:25:22.476] [Server thread/INFO] [Jade/]: Syncing config to Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13)
+[31Jul2025 05:25:24.149] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Silb3r (18)
+[31Jul2025 05:25:24.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Silb3r
+[31Jul2025 05:25:40.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 05:25:41.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 05:25:41.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13) successfully connected to voice chat
+[31Jul2025 05:26:30.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Iron Torch]
+[31Jul2025 05:26:37.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=124, z=8}
+[31Jul2025 05:26:56.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=124, z=8}
+[31Jul2025 05:26:56.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=124, z=8}
+[31Jul2025 05:26:56.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=124, z=8}
+[31Jul2025 05:26:56.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=124, z=8}
+[31Jul2025 05:26:56.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=124, z=8}
+[31Jul2025 05:28:21.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=126, z=18} BlockPos{x=-16, y=125, z=10}
+[31Jul2025 05:28:22.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=126, z=18} BlockPos{x=-15, y=124, z=14}
+[31Jul2025 05:28:22.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=126, z=18} BlockPos{x=-15, y=124, z=14}
+[31Jul2025 05:28:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CaldeGamer07: Made CaldeGamer07 no longer a server operator]
+[31Jul2025 05:29:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Silb3r a server operator
+[31Jul2025 05:29:09.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made CaldeGamer07 a server operator
+[31Jul2025 05:29:18.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> sisisi
+[31Jul2025 05:29:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> mute no c que boton
+[31Jul2025 05:29:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> xDDDDD
