@@ -2904,3 +2904,27 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [31Jul2025 05:29:18.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> sisisi
 [31Jul2025 05:29:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> mute no c que boton
 [31Jul2025 05:29:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> xDDDDD
+[31Jul2025 05:32:41.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Stone Age]
+[31Jul2025 05:38:00.131] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-99, y=-31, z=-238}
+[31Jul2025 05:38:00.661] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=23, y=-25, z=-229}
+[31Jul2025 05:38:00.662] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=23, y=-25, z=-231}
+[31Jul2025 05:38:42.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=116, z=40} BlockPos{x=-11, y=121, z=-14}
+[31Jul2025 05:38:42.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Crops of the Wild]
+[31Jul2025 05:38:43.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=118, z=-25} BlockPos{x=-14, y=121, z=-11}
+[31Jul2025 05:38:43.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Crops of the Wild]
+[31Jul2025 05:38:44.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=120, z=-14} BlockPos{x=-11, y=121, z=-13}
+[31Jul2025 05:38:45.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=120, z=-15} BlockPos{x=-10, y=121, z=-14}
+[31Jul2025 05:38:46.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=120, z=-15} BlockPos{x=-10, y=121, z=-15}
+[31Jul2025 05:38:48.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=120, z=-15} BlockPos{x=-10, y=120, z=-18}
+[31Jul2025 05:38:55.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=119, z=-18} BlockPos{x=-12, y=121, z=-14}
+[31Jul2025 05:39:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 05:39:53.755] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 05:39:53.757] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:40:18.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r was struck by lightning
+[31Jul2025 05:40:18.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Your First Grave]
+[31Jul2025 05:40:18.817] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:40:23.893] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Jul2025 05:41:16.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 05:41:16.449] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 05:41:16.451] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:41:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has been revived!

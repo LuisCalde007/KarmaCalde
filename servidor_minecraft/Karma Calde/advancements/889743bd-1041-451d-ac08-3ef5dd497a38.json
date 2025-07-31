@@ -1547,9 +1547,10 @@
   },
   "xercamod:recipes/leather_straw/item_block_leather": {
     "criteria": {
+      "has_item": "2025-07-31 05:30:08 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/terracotta_tile/terratile_slab": {
     "criteria": {
@@ -3276,9 +3277,10 @@
   },
   "xercamod:recipes/rope/rope": {
     "criteria": {
+      "has_item": "2025-07-31 05:38:25 +0000",
       "config": "2025-07-29 04:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/item_raw_patty": {
     "criteria": {
@@ -3370,6 +3372,7 @@
       "rocky_shrubland": "2025-07-29 04:51:01 +0000",
       "highland": "2025-07-29 04:54:56 +0000",
       "mystic_grove": "2025-07-29 04:56:54 +0000",
+      "orchard": "2025-07-31 05:38:00 +0000",
       "redwood_forest": "2025-07-29 04:56:47 +0000"
     },
     "done": false
@@ -5921,6 +5924,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-31 05:34:00 +0000",
+      "minecraft:spider": "2025-07-31 05:38:25 +0000",
       "minecraft:zombie": "2025-07-30 21:30:57 +0000"
     },
     "done": false
@@ -5928,6 +5933,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-30 21:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
     },
     "done": true
   },
@@ -5979,6 +5990,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/bowtie": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-07-31 05:21:33 +0000"
@@ -5994,6 +6011,18 @@
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/plague_doctor_mask": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
     },
     "done": true
   },
@@ -6021,6 +6050,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wig": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6039,6 +6080,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6048,6 +6101,18 @@
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_shin": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/tantan_cape": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
     },
     "done": true
   },
@@ -6066,6 +6131,12 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/golden_a_five_wagyu": {
+    "criteria": {
+      "has_cooked_beef": "2025-07-31 05:29:34 +0000"
     },
     "done": true
   },
@@ -6123,6 +6194,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-07-31 05:31:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6156,6 +6233,12 @@
   "cfm:recipes/decorations/pink_grill": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
     },
     "done": true
   },
@@ -6201,6 +6284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-07-31 05:21:33 +0000"
@@ -6234,6 +6323,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-07-31 05:23:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-07-31 05:31:52 +0000"
     },
     "done": true
   },
@@ -6297,6 +6392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6351,6 +6452,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_rei": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-31 05:26:08 +0000"
@@ -6393,6 +6500,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/treat_bag": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6402,6 +6515,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/empty_locator_orb": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6429,6 +6548,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/tengu_mask": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/post_box": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6453,6 +6578,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/kitsune_mask": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6465,9 +6596,27 @@
     },
     "done": true
   },
+  "occultism:recipes/decorations/crafting/candle": {
+    "criteria": {
+      "has_tallow": "2025-07-31 05:30:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_grill": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chu": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_chi": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6477,9 +6626,33 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/tools/conducting_bone": {
     "criteria": {
       "has_bone": "2025-07-31 05:26:08 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_tei": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-07-31 05:29:43 +0000"
+    },
+    "done": false
+  },
+  "doggytalents:recipes/decorations/locator_orb_ko": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6492,6 +6665,12 @@
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/locator_orb_gi": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6579,6 +6758,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/pianist_suit": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
@@ -6663,9 +6848,21 @@
     },
     "done": true
   },
+  "tropicraft:recipes/decorations/bamboo_item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bach_wig": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6741,9 +6938,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/misc/gender_bone": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6795,9 +7010,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/cape_coloured": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6825,9 +7052,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_dyable": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/leather_jacket": {
+    "criteria": {
+      "has_leather": "2025-07-31 05:30:08 +0000"
     },
     "done": true
   },
@@ -6873,9 +7118,21 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/guard_suit": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6894,6 +7151,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/wool_collar_thicc": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -6951,6 +7214,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/locator_orb_jin": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
@@ -6966,6 +7235,12 @@
   "cfm:recipes/decorations/green_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
@@ -7008,6 +7283,12 @@
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-07-31 05:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-31 05:38:25 +0000"
     },
     "done": true
   },
