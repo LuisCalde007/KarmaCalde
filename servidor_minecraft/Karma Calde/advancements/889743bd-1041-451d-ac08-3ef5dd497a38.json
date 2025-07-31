@@ -8970,6 +8970,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-07-31 06:46:36 +0000"
@@ -9114,6 +9120,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/deer_antlers": {
     "criteria": {
       "has_leather_helmet": "2025-07-31 06:32:03 +0000"
@@ -9138,6 +9150,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-31 06:46:36 +0000"
@@ -9159,6 +9177,12 @@
   "mca:root": {
     "criteria": {
       "village_plains": "2025-07-31 06:30:39 +0000"
+    },
+    "done": true
+  },
+  "tropicraft:recipes/misc/white_umbrella": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
     },
     "done": true
   },
@@ -9196,6 +9220,12 @@
   "mcwdoors:recipes/bamboo": {
     "criteria": {
       "has_wood": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
     },
     "done": true
   },
@@ -9244,6 +9274,12 @@
   "doggytalents:recipes/decorations/bunny_ears": {
     "criteria": {
       "has_leather_helmet": "2025-07-31 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-07-31 06:54:01 +0000"
     },
     "done": true
   },
@@ -9313,6 +9349,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2025-07-31 06:31:15 +0000"
@@ -9361,6 +9403,12 @@
     },
     "done": true
   },
+  "tropicraft:recipes/misc/white_beach_float": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-07-31 06:43:46 +0000"
@@ -9370,6 +9418,12 @@
   "mca:recipes/decorations/red_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:54:01 +0000"
     },
     "done": true
   },
@@ -9589,6 +9643,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/chiseled_stone_bricks_slab": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-07-31 06:51:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
@@ -9664,6 +9724,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/cherry_seat": {
     "criteria": {
       "has_plank": "2025-07-31 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
     },
     "done": true
   },
@@ -9835,6 +9901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-31 06:40:57 +0000"
@@ -9856,6 +9928,12 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-31 06:40:57 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-07-31 06:50:23 +0000"
     },
     "done": true
   },
@@ -9883,6 +9961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:43:46 +0000"
@@ -9901,6 +9985,18 @@
     },
     "done": true
   },
+  "tropicraft:recipes/misc/white_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:54:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-31 06:32:48 +0000"
@@ -9910,6 +10006,12 @@
   "tropicraft:recipes/tools/zircon_axe": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-31 06:54:01 +0000"
     },
     "done": true
   },
@@ -9952,6 +10054,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-07-31 06:32:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-07-31 06:54:01 +0000"
     },
     "done": true
   },
