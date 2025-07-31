@@ -3066,3 +3066,87 @@ java.lang.Exception: null
 [31Jul2025 06:21:06.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=70, z=450} BlockPos{x=1402, y=69, z=450}
 [31Jul2025 06:21:06.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=70, z=450} BlockPos{x=1402, y=69, z=450}
 [31Jul2025 06:21:06.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=70, z=450} BlockPos{x=1402, y=69, z=450}
+[31Jul2025 06:22:22.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r was slain by Zombie
+[31Jul2025 06:22:22.708] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 06:22:31.473] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Jul2025 06:22:38.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> estoy a 2k,
+[31Jul2025 06:22:41.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> km
+[31Jul2025 06:22:57.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> te espero
+[31Jul2025 06:23:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> o voy?
+[31Jul2025 06:23:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> voy pa alla
+[31Jul2025 06:23:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> aunq
+[31Jul2025 06:23:26.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> te mamaste
+[31Jul2025 06:23:52.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silb3r was kicked for floating too long!
+[31Jul2025 06:23:52.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silb3r lost connection: Disconnected
+[31Jul2025 06:23:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r left the game
+[31Jul2025 06:23:52.910] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Silb3r
+[31Jul2025 06:23:52.956] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Jul2025 06:24:08.335] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Silb3r is 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 06:24:15.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 is incapacitated!
+[31Jul2025 06:24:15.689] [Server thread/WARN] [tombstone/]: The death event of the player CaldeGamer07 was canceled by another mod
+[31Jul2025 06:24:15.699] [Server thread/INFO] [tombstone/]: The player CaldeGamer07 has successfully been saved
+[31Jul2025 06:24:20.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Silb3r[/127.56.39.103:38727] logged in with entity id 31531 at (284.2081462074284, 114.46026947021555, 52.39296712149109)
+[31Jul2025 06:24:21.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r joined the game
+[31Jul2025 06:24:21.038] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[31Jul2025 06:24:21.048] [Server thread/INFO] [Jade/]: Syncing config to Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13)
+[31Jul2025 06:24:23.705] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Silb3r (18)
+[31Jul2025 06:24:23.706] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Silb3r
+[31Jul2025 06:24:40.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 06:24:41.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 06:24:41.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13) successfully connected to voice chat
+[31Jul2025 06:24:43.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silb3r was kicked for floating too long!
+[31Jul2025 06:24:44.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Silb3r lost connection: Flying is not enabled on this server
+[31Jul2025 06:24:44.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r left the game
+[31Jul2025 06:24:44.009] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Silb3r
+[31Jul2025 06:24:58.128] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Silb3r is 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 06:25:11.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Silb3r[/127.56.39.103:56353] logged in with entity id 31917 at (281.590837407454, 101.30936762799485, 49.905444653207375)
+[31Jul2025 06:25:11.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r joined the game
+[31Jul2025 06:25:11.092] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[31Jul2025 06:25:11.104] [Server thread/INFO] [Jade/]: Syncing config to Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13)
+[31Jul2025 06:25:13.604] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Silb3r (18)
+[31Jul2025 06:25:13.605] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Silb3r
+[31Jul2025 06:25:29.808] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 06:25:30.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f8e0780-d75d-420c-8626-0742fb039b13
+[31Jul2025 06:25:30.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Silb3r (9f8e0780-d75d-420c-8626-0742fb039b13) successfully connected to voice chat
+[31Jul2025 06:25:55.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has reached the goal [Strong or Careful]
+[31Jul2025 06:25:55.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 was slain by Bison and bled out
+[31Jul2025 06:25:55.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Your First Grave]
+[31Jul2025 06:25:55.681] [Server thread/INFO] [tombstone/]: The player CaldeGamer07 has successfully been saved
+[31Jul2025 06:25:58.855] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Jul2025 06:26:20.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Knowledge raises the soul]
+[31Jul2025 06:27:27.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaldeGamer07 was kicked for floating too long!
+[31Jul2025 06:27:27.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaldeGamer07 lost connection: Flying is not enabled on this server
+[31Jul2025 06:27:27.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 left the game
+[31Jul2025 06:27:27.706] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CaldeGamer07
+[31Jul2025 06:27:52.917] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CaldeGamer07 is 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 06:28:03.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaldeGamer07[/127.116.252.139:36255] logged in with entity id 34032 at (297.005021429949, 92.5283336207374, 51.24820801180998)
+[31Jul2025 06:28:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 joined the game
+[31Jul2025 06:28:03.088] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[31Jul2025 06:28:03.096] [Server thread/INFO] [Jade/]: Syncing config to CaldeGamer07 (889743bd-1041-451d-ac08-3ef5dd497a38)
+[31Jul2025 06:28:05.206] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CaldeGamer07 (18)
+[31Jul2025 06:28:05.207] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CaldeGamer07
+[31Jul2025 06:28:17.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 06:28:18.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 06:28:18.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CaldeGamer07 (889743bd-1041-451d-ac08-3ef5dd497a38) successfully connected to voice chat
+[31Jul2025 06:28:20.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Jul2025 06:28:20.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: allow-flight true<--[HERE]
+[31Jul2025 06:28:21.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaldeGamer07 was kicked for floating too long!
+[31Jul2025 06:28:21.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaldeGamer07 lost connection: Flying is not enabled on this server
+[31Jul2025 06:28:21.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 left the game
+[31Jul2025 06:28:21.360] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CaldeGamer07
+[31Jul2025 06:28:34.584] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CaldeGamer07 is 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 06:28:45.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaldeGamer07[/127.116.252.139:41559] logged in with entity id 34583 at (297.005021429949, 80.25131718300099, 51.24820801180998)
+[31Jul2025 06:28:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 joined the game
+[31Jul2025 06:28:45.138] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[31Jul2025 06:28:45.146] [Server thread/INFO] [Jade/]: Syncing config to CaldeGamer07 (889743bd-1041-451d-ac08-3ef5dd497a38)
+[31Jul2025 06:28:47.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CaldeGamer07 (18)
+[31Jul2025 06:28:47.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CaldeGamer07
+[31Jul2025 06:28:59.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 06:29:00.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 889743bd-1041-451d-ac08-3ef5dd497a38
+[31Jul2025 06:29:00.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CaldeGamer07 (889743bd-1041-451d-ac08-3ef5dd497a38) successfully connected to voice chat
+[31Jul2025 06:29:19.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Minecraft Comes Alive]
+[31Jul2025 06:29:32.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> COMO Q COMES ALIVE
+[31Jul2025 06:29:44.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Silb3r> nos volamos una aldea xd
+[31Jul2025 06:29:51.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <CaldeGamer07> eso veo
+[31Jul2025 06:30:02.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Agnete'/33285, l='ServerLevel[Karma Calde]', x=630.44, y=64.01, z=254.55] died: Agnete was slain by Silb3r
+[31Jul2025 06:30:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Minecraft Comes Alive]
