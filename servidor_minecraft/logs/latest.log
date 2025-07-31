@@ -2928,3 +2928,30 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 [31Jul2025 05:41:16.449] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
 [31Jul2025 05:41:16.451] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
 [31Jul2025 05:41:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has been revived!
+[31Jul2025 05:41:38.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 05:41:38.938] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 05:41:38.948] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:41:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has been revived!
+[31Jul2025 05:42:10.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [A Strange Grave Dust]
+[31Jul2025 05:42:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 05:42:19.495] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 05:42:19.497] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:42:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r was slain by Skeleton
+[31Jul2025 05:42:22.963] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:42:24.445] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Jul2025 05:42:41.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has reached the goal [Here They Come]
+[31Jul2025 05:42:51.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 05:42:51.019] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 05:42:51.021] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:43:04.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Suit Up]
+[31Jul2025 05:43:04.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has been revived!
+[31Jul2025 05:46:34.119] [Worker-Main-31/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=239, y=-19, z=113}
+[31Jul2025 05:46:53.176] [pool-16-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest]] from pos BlockPos{x=251, y=70, z=155}
+[31Jul2025 05:46:55.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[31Jul2025 05:46:55.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaldeGamer07 moved too quickly! 9.683298697333726,1.1212968405391734,-2.409754867991028
+[31Jul2025 05:47:46.937] [Worker-Main-24/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [20, 12], pos: BlockPos{x=332, y=55, z=199}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@7a9ce878: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@5c368ecb}
+[31Jul2025 05:47:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 05:47:47.710] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 05:47:47.731] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 05:48:01.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has been revived!
+[31Jul2025 05:50:53.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Getting an Upgrade]
