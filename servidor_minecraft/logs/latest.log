@@ -3044,3 +3044,25 @@ java.lang.Exception: null
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[31Jul2025 06:12:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaldeGamer07 has made the advancement [Chompy]
+[31Jul2025 06:12:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Chompy]
+[31Jul2025 06:13:11.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1468, y=62, z=251} BlockPos{x=1468, y=62, z=253}
+[31Jul2025 06:13:11.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1468, y=62, z=251} BlockPos{x=1468, y=62, z=253}
+[31Jul2025 06:13:29.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1450, y=63, z=266} BlockPos{x=1452, y=63, z=266}
+[31Jul2025 06:13:38.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1451, y=62, z=263} BlockPos{x=1452, y=62, z=261}
+[31Jul2025 06:13:39.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1451, y=62, z=263} BlockPos{x=1452, y=62, z=261}
+[31Jul2025 06:17:47.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1484, y=65, z=393} BlockPos{x=1477, y=72, z=424}
+[31Jul2025 06:17:48.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1476, y=72, z=425} BlockPos{x=1477, y=72, z=425}
+[31Jul2025 06:17:51.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1477, y=71, z=425} BlockPos{x=1478, y=71, z=425}
+[31Jul2025 06:17:51.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1477, y=71, z=425} BlockPos{x=1478, y=71, z=426}
+[31Jul2025 06:17:52.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1478, y=70, z=426} BlockPos{x=1479, y=70, z=425}
+[31Jul2025 06:17:54.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1478, y=70, z=426} BlockPos{x=1476, y=74, z=425}
+[31Jul2025 06:19:07.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r is incapacitated!
+[31Jul2025 06:19:07.199] [Server thread/WARN] [tombstone/]: The death event of the player Silb3r was canceled by another mod
+[31Jul2025 06:19:07.201] [Server thread/INFO] [tombstone/]: The player Silb3r has successfully been saved
+[31Jul2025 06:19:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has been revived!
+[31Jul2025 06:20:12.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Silb3r has made the advancement [Ashes 'n Bones]
+[31Jul2025 06:20:14.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1392, y=70, z=451} BlockPos{x=1392, y=71, z=454}
+[31Jul2025 06:21:06.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=70, z=450} BlockPos{x=1402, y=69, z=450}
+[31Jul2025 06:21:06.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=70, z=450} BlockPos{x=1402, y=69, z=450}
+[31Jul2025 06:21:06.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1402, y=70, z=450} BlockPos{x=1402, y=69, z=450}
