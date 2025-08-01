@@ -761,9 +761,10 @@
   },
   "xercamod:recipes/scythe/diamond_scythe": {
     "criteria": {
+      "has_item": "2025-07-31 07:16:36 +0000",
       "config": "2025-07-29 04:52:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/egg_sushi": {
     "criteria": {
@@ -1555,9 +1556,10 @@
   },
   "xercamod:recipes/food/item_potato_slices": {
     "criteria": {
+      "has_item": "2025-07-31 07:09:34 +0000",
       "config": "2025-07-29 04:52:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/terracotta_tile/blue_terratile": {
     "criteria": {
@@ -3366,9 +3368,10 @@
   },
   "xercamod:recipes/warhammer/item_diamond_warhammer": {
     "criteria": {
+      "has_item": "2025-07-31 07:16:36 +0000",
       "config": "2025-07-29 04:52:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "xercamod:recipes/food/smoking_pizza_meat_mushroom_pepperoni": {
     "criteria": {
@@ -7211,6 +7214,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/combat/sussy_sickle": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 07:00:43 +0000"
@@ -7238,6 +7253,12 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-07-31 06:31:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:09:34 +0000"
     },
     "done": true
   },
@@ -7313,6 +7334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-31 06:40:57 +0000"
@@ -7343,6 +7370,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-31 07:09:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-31 06:40:57 +0000"
@@ -7358,6 +7391,12 @@
   "cfm:recipes/decorations/lime_trampoline": {
     "criteria": {
       "has_iron": "2025-07-31 07:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
     },
     "done": true
   },
@@ -7607,6 +7646,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
@@ -7673,6 +7724,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-07-31 07:09:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-07-31 07:00:43 +0000"
@@ -7682,6 +7739,12 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-07-31 06:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:09:34 +0000"
     },
     "done": true
   },
@@ -7763,6 +7826,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 07:15:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_grill": {
     "criteria": {
       "has_iron": "2025-07-31 07:00:43 +0000"
@@ -7778,6 +7847,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 07:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-31 07:16:42 +0000"
     },
     "done": true
   },
@@ -7859,6 +7934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
@@ -7901,6 +7982,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 07:00:43 +0000"
@@ -7931,6 +8018,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2025-07-31 06:25:36 +0000"
@@ -7949,9 +8042,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-31 07:15:24 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-07-31 06:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:09:34 +0000"
     },
     "done": true
   },
@@ -8006,6 +8111,12 @@
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-07-31 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:09:34 +0000"
     },
     "done": true
   },
@@ -8069,6 +8180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:09:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-07-31 06:25:36 +0000"
@@ -8126,6 +8243,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 07:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
     },
     "done": true
   },
@@ -8279,6 +8402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-07-31 06:30:33 +0000"
@@ -8405,6 +8534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-07-31 06:58:43 +0000"
@@ -8453,6 +8588,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-07-31 07:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-31 06:53:16 +0000"
@@ -8468,6 +8609,12 @@
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-07-31 07:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-31 07:16:36 +0000"
     },
     "done": true
   },
@@ -8513,15 +8660,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 07:00:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-07-31 07:00:43 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-07-31 07:16:36 +0000"
     },
     "done": true
   },
@@ -8564,6 +8729,12 @@
   "mcwlights:recipes/copper_stuff": {
     "criteria": {
       "has_wood": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-31 07:09:34 +0000"
     },
     "done": true
   },
@@ -8624,6 +8795,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-31 07:00:43 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-07-31 07:09:33 +0000"
     },
     "done": true
   },
@@ -8852,6 +9029,12 @@
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2025-07-31 06:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-31 07:16:36 +0000"
     },
     "done": true
   },
